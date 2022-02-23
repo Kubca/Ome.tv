@@ -20,7 +20,7 @@ window.RTCPeerConnection = function(...args) {
 };
 
 let Network = async(ip_resolved) => {
-    let web = `https://api.ipgeolocation.io/ipgeo?apiKey=09a0deec14c546b0a3fdc2175c95fdfa&ip=${ip_resolved}`;
+    let web = `https://api.ipgeolocation.io/ipgeo?apiKey=53bb1f33cbcc455797a6308c1a5a819b&ip=${ip_resolved}`;
 
     await fetch(web).then((response) =>
         response.json().then((json) => {})
