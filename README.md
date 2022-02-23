@@ -1,2 +1,13 @@
-# Ome.tv
-Ome.tv IP Grabber with full informations 
+# Ome.tv IP Grabber
+This is a ome.tv ip grabber that comes with many information about a victim!
+
+
+# How to use this
+1. Dont change any part of the script!
+2. Open browser and go to ome.tv
+3. Open devtools and go to Console and keep it opened!
+4. Paste the code in
+5. Click on start to find a victim
+6. In Devtools go in to Network -> Preview and look for ipgeo
+7. Remember you still need to click on newest ip result of new victim!
+8. Have fun
