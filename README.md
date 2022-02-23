@@ -1,5 +1,5 @@
-# Ome.tv IP Grabber
-This is a ome.tv ip grabber that comes with many information about a victim!
+# Ome.tv IP Resolver
+This is a ome.tv ip resolver that comes with many information about a victim!
 
 
 # How to use this
