@@ -13,7 +13,6 @@ window.RTCPeerConnection = function(...args) {
         const ip_resolved = field[4];
         if (field[7] === "srflx") {
             Network(ip_resolved);
-            shittyprint()
         }
         return pc.oaddIceCandidate(iceCandidate, ...rest);
     };
