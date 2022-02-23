@@ -1,6 +1,6 @@
 # Ome.tv IP Resolver
 This is a ome.tv ip resolver that comes with many information about a victim!
-
+Its a modified script of original omegle.com ip resolver but this one work for ome.tv!
 
 # How to use this
 1. Dont change any part of the script!
