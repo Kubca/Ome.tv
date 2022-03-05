@@ -9,5 +9,5 @@ Its a modified script of original omegle.com ip resolver but this one work for o
 4. Paste the code in
 5. Click on start to find a victim
 6. In Devtools go in to Network -> Preview and look for ipgeo
-7. Remember you still need to click on newest ip result of new victim!
+7. Remember you still need to click on the newest ip result of new victim!
 8. Have fun
